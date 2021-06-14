@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Mire",
+      "day": "2021-06-13",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Mire 3",
+      "day": "2021-06-14",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
